@@ -1,0 +1,58 @@
+[
+  {
+    "name": "course",
+    "path": "/course",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/course/index.vue",
+    "chunkName": "pages/course/index",
+    "_name": "_a3530236"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_b74ed21c"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_40d276ac"
+  },
+  {
+    "name": "teacher",
+    "path": "/teacher",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/teacher/index.vue",
+    "chunkName": "pages/teacher/index",
+    "_name": "_c2d2de24"
+  },
+  {
+    "name": "course-id",
+    "path": "/course/:id",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/course/_id.vue",
+    "chunkName": "pages/course/_id",
+    "_name": "_225e12e6"
+  },
+  {
+    "name": "player-vid",
+    "path": "/player/:vid?",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/player/_vid.vue",
+    "chunkName": "pages/player/_vid",
+    "_name": "_67c25d09"
+  },
+  {
+    "name": "teacher-id",
+    "path": "/teacher/:id",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/teacher/_id.vue",
+    "chunkName": "pages/teacher/_id",
+    "_name": "_3a601254"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/qinyue/Documents/Project/education-vue/vue-front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4a9e184a"
+  }
+]
